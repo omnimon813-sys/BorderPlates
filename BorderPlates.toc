@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: Border Plates
+## Notes: Marcos personalizados de jugador, objetivo, mascota, grupo y banda para WoW 3.3.5a
+## Author: Border Plates
+## Version: 1.0.0
+## SavedVariables: BorderPlatesDB
+BorderPlates.lua
+BorderPlates_Target.lua
+BorderPlates_Pet.lua
+BorderPlates_Party.lua
+BorderPlates_Raid.lua
+
+BorderPlates_Cast.lua
+
+
+
